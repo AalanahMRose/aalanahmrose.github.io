@@ -7,6 +7,13 @@ Aalanah Rose | amrose2@my.waketech.edu
 My Github account is a giant portfolio for the rest of my academic career. It is where I will also be storing any out-sourced projects I do.
 
 ### Step-By-Step of Cloning Repository
-    1. I created the repository
-    2. I went into my desktop application and pressed clone
-    3. I redirected my repository to a specfic folder
+    1. Install GitHub Desktop (if not already installed)
+    2. Log In to Your GitHub Account
+    3. Open GitHub Desktop
+    4. Click on the "File" Menu
+    5. Select "Clone Repository
+    6. Choose a Repository to Clone
+    7. Choose a Local Path
+    8. Click "Clone
+    9. Wait for Cloning to Complete
+    10. Start Working!
